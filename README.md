@@ -1,0 +1,1 @@
+# local-storage-small-project-javascript
